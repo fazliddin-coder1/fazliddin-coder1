@@ -1,3 +1,44 @@
+<svg width="680" height="360" viewBox="0 0 680 360" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="curve-grad" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#6b6b6b" stop-opacity="0"/>
+<stop offset="100%" stop-color="#e8e8e8" stop-opacity="0.9"/>
+</linearGradient>
+</defs>
+
+<rect x="0" y="0" width="680" height="360" rx="20" fill="#141414"/>
+<rect x="0.5" y="0.5" width="679" height="359" rx="19.5" fill="none" stroke="#2a2a2a" stroke-width="1"/>
+
+<rect x="40" y="36" width="200" height="30" rx="15" fill="#1f1f1f" stroke="#333333" stroke-width="0.5"/>
+<circle cx="58" cy="51" r="5" fill="#f0f0f0">
+  <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+</circle>
+<text x="74" y="51" font-size="11" letter-spacing="0.5" fill="#cfcfcf" font-family="Helvetica, Arial, sans-serif" dominant-baseline="central">AVAILABLE FOR PROJECTS</text>
+
+<path id="curve" d="M 130 250 C 280 210, 340 130, 430 150 C 500 165, 540 110, 600 70" fill="none" stroke="url(#curve-grad)" stroke-width="1.5"/>
+
+<circle cx="600" cy="100" r="40" fill="none" stroke="#2bb3a3" stroke-width="1" opacity="0.55"/>
+<circle r="6" fill="#f5f5f5">
+  <animateMotion dur="6s" repeatCount="indefinite" path="M 130 250 C 280 210, 340 130, 430 150 C 500 165, 540 110, 600 70"/>
+</circle>
+
+<text x="40" y="118" font-size="12" letter-spacing="1" fill="#8a8a8a" font-family="Helvetica, Arial, sans-serif">// FRONTEND DEVELOPER &#183; WEB DESIGNER</text>
+
+<text x="38" y="178" font-size="44" font-weight="500" fill="#fafafa" font-family="Helvetica, Arial, sans-serif">Shamshiddinov</text>
+<text x="38" y="232" font-size="44" font-weight="500" fill="#fafafa" font-family="Helvetica, Arial, sans-serif">Fazliddin</text>
+
+<text x="40" y="266" font-size="14" fill="#b7b7b7" font-family="Helvetica, Arial, sans-serif">React, JavaScript, HTML5, CSS3 and clean dark interfaces.</text>
+<text x="40" y="288" font-size="12" fill="#7a7a7a" font-family="Helvetica, Arial, sans-serif">Toshkent, O'zbekiston &#183; Frontend Developer</text>
+
+<rect x="40" y="308" width="150" height="34" rx="8" fill="#f5f5f5"/>
+<text x="115" y="325" font-size="13" font-weight="500" fill="#161616" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" dominant-baseline="central">VIEW PORTFOLIO</text>
+
+<rect x="200" y="308" width="100" height="34" rx="8" fill="#1f1f1f" stroke="#333333" stroke-width="0.5"/>
+<text x="250" y="325" font-size="13" fill="#dcdcdc" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" dominant-baseline="central">GitHub</text>
+
+<rect x="310" y="308" width="110" height="34" rx="8" fill="#1f1f1f" stroke="#333333" stroke-width="0.5"/>
+<text x="365" y="325" font-size="13" fill="#dcdcdc" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" dominant-baseline="central">Telegram</text>
+</svg>
 <div align="center">
 
 <img src="https://img.shields.io/badge/●_AVAILABLE_FOR_PROJECTS-1a1a1a?style=for-the-badge&logoColor=white" alt="status"/>
