@@ -67,7 +67,7 @@ const fazliddin = {
 | 6 | **[Currency Converter](#)** | Valyutalarni real vaqtda konvertatsiya qiluvchi ilova |
 | 7 | **[To-Do App](#)** | Vazifalarni rejalashtirish va boshqarish ilovasi |
 | 8 | **[Raqam Top Oyin](#)** | Raqamlarni topish mantiqiy o'yini |
-| 9 | **[Expense Tracker](#)** | Shaxsiy xarajatlarni kuzatish va tahlil qilish ilovasi |
+| 9 | **[So'z Top Oyin](#)** | So'zlarni topish mantiqiy o'yini |
 | 10 | **[Kalendar](#)** | Tadbirlar va vazifalarni rejalashtiruvchi taqvim ilovasi |
 
 </div>
