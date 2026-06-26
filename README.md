@@ -9,7 +9,7 @@ React, SCSS, Tailwind CSS, Firebase and clean dark interfaces.
 📍 Toshkent, O'zbekiston &nbsp;·&nbsp; 🎓 STECH o'quv markazi &nbsp;·&nbsp; 15 yosh &nbsp;·&nbsp; 🟢 Available for projects
 
 <br>
-[![Weather-app]()](ob-xavo-8evj29r88-fshamshiddinov22-8543s-projects.vercel.app)
+
 [![Portfolio](https://img.shields.io/badge/VIEW%20PORTFOLIO-white?style=for-the-badge&logoColor=black)](https://portfolio-55zdjimnm-fshamshiddinov22-8543s-projects.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](#)
