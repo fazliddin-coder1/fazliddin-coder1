@@ -64,7 +64,7 @@ const fazliddin = {
 | 3 | **[IT Kompaniya Sayti](#)** | Zamonaviy IT kompaniya uchun landing sahifa |
 | 4 | **[Kalkulyator](#)** | Asosiy va ilmiy hisob-kitoblar uchun ilova |
 | 5 | **[Soat (Clock App)](#)** | Real vaqtda raqamli va analog soat ilovasi |
-| 6 | **[Fast-Food Sayti](#)** | Onlayn buyurtma beruvchi fast-food platformasi |
+| 6 | **[Dictionary App](#)** | Inglizcha so'zlarni qidiruvchi lug'at ilovasi |
 | 7 | **[To-Do App](#)** | Vazifalarni rejalashtirish va boshqarish ilovasi |
 | 8 | **[Raqam Top Oyin](#)** | Raqamlarni topish mantiqiy o'yini |
 | 9 | **[Expense Tracker](#)** | Shaxsiy xarajatlarni kuzatish va tahlil qilish ilovasi |
