@@ -59,16 +59,16 @@ const fazliddin = {
 
 | # | 🚀 Loyiha | 💬 Qisqacha |
 |---|---|---|
-| 1 | **[Weather App](#)** | Ob-havo ma'lumotlarini real vaqtda ko'rsatuvchi ilova |
-| 2 | **[Savol-Javob Bot](#)** | AI yordamida savollarga javob beruvchi chat-bot |
-| 3 | **[IT Kompaniya Sayti](#)** | Zamonaviy IT kompaniya uchun landing sahifa |
-| 4 | **[Kalkulyator](#)** | Asosiy va ilmiy hisob-kitoblar uchun ilova |
-| 5 | **[Soat (Clock App)](#)** | Real vaqtda raqamli va analog soat ilovasi |
-| 6 | **[Currency Converter](#)** | Valyutalarni real vaqtda konvertatsiya qiluvchi ilova |
-| 7 | **[To-Do App](#)** | Vazifalarni rejalashtirish va boshqarish ilovasi |
-| 8 | **[Raqam Top Oyin](#)** | Raqamlarni topish mantiqiy o'yini |
-| 9 | **[So'z Top Oyin](#)** | So'zlarni topish mantiqiy o'yini |
-| 10 | **[Kalendar](#)** | Tadbirlar va vazifalarni rejalashtiruvchi taqvim ilovasi |
+| 1 | **[Weather App](https://ob-xavo-8evj29r88-fshamshiddinov22-8543s-projects.vercel.app)** | Ob-havo ma'lumotlarini real vaqtda ko'rsatuvchi ilova |
+| 2 | **[Savol-Javob Bot](https://savol-javob-9qgzb2efe-fshamshiddinov22-8543s-projects.vercel.app)** | AI yordamida savollarga javob beruvchi chat-bot |
+| 3 | **[IT Kompaniya Sayti](https://it-kompanya-rhnr58ipc-fshamshiddinov22-8543s-projects.vercel.app)** | Zamonaviy IT kompaniya uchun landing sahifa |
+| 4 | **[Kalkulyator](https://conkulyator-1-eyw7ih20w-fshamshiddinov22-8543s-projects.vercel.app)** | Asosiy va ilmiy hisob-kitoblar uchun ilova |
+| 5 | **[Soat (Clock App)](https://soat-ljhe23vp7-fshamshiddinov22-8543s-projects.vercel.app)** | Real vaqtda raqamli va analog soat ilovasi |
+| 6 | **[Currency Converter](https://dictionary-b3spupiia-fshamshiddinov22-8543s-projects.vercel.app)** | Valyutalarni real vaqtda konvertatsiya qiluvchi ilova |
+| 7 | **[To-Do App](https://t-do-psxtbhtjz-fshamshiddinov22-8543s-projects.vercel.app)** | Vazifalarni rejalashtirish va boshqarish ilovasi |
+| 8 | **[Raqam Top Oyin](https://raqam-i8heoea2o-fshamshiddinov22-8543s-projects.vercel.app)** | Raqamlarni topish mantiqiy o'yini |
+| 9 | **[So'z Top Oyin](https://soz-extodurud-fshamshiddinov22-8543s-projects.vercel.app)** | So'zlarni topish mantiqiy o'yini |
+| 10 | **[Kalendar](https://taqvim-6upmb1mng-fshamshiddinov22-8543s-projects.vercel.app)** | Tadbirlar va vazifalarni rejalashtiruvchi taqvim ilovasi |
 
 </div>
 
