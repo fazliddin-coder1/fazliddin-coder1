@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm Fazliddin Shamshiddinov 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=220&section=header&text=Fazliddin%20Shamshiddinov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%C2%B7%20Web%20Designer&descAlignY=58&descSize=18&descColor=9aa0a6" width="100%"/>
 
-### `// FRONTEND DEVELOPER · WEB DESIGNER`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=3DDC97&center=true&vCenter=true&width=600&lines=React+%2B+SCSS+%2B+Tailwind+CSS;Clean+dark+interfaces;Firebase+%26+real-time+apps;Currently+learning+Next.js+%26+TypeScript" alt="Typing SVG" />
 
-React, SCSS, Tailwind CSS, Firebase and clean dark interfaces.
+<br>
 
 📍 Toshkent, O'zbekiston &nbsp;·&nbsp; 🎓 STECH o'quv markazi &nbsp;·&nbsp; 15 yosh &nbsp;·&nbsp; 🟢 Available for projects
 
@@ -57,13 +57,18 @@ const fazliddin = {
 
 <div align="center">
 
-| 🚀 Loyiha | 💬 Qisqacha |
-|---|---|
-| **Bozor** | Onlayn savdo / market platformasi |
-| **[Weather-app](https://ob-xavo-8evj29r88-fshamshiddinov22-8543s-projects.vercel.app)** | Ob-havo ma'lumotlarini real vaqtda ko'rsatuvchi ilova |
-| **Chat** | Real vaqtda xabar almashish ilovasi |
-| **Orbiton SaaS** | Zamonaviy SaaS landing va dashboard |
-| **Smart Fit** | Fitnes va sog'lom turmush tarzi ilovasi |
+| # | 🚀 Loyiha | 💬 Qisqacha |
+|---|---|---|
+| 1 | **[Weather App](#)** | Ob-havo ma'lumotlarini real vaqtda ko'rsatuvchi ilova |
+| 2 | **[Savol-Javob Bot](#)** | AI yordamida savollarga javob beruvchi chat-bot |
+| 3 | **[IT Kompaniya Sayti](#)** | Zamonaviy IT kompaniya uchun landing sahifa |
+| 4 | **[Kalkulyator](#)** | Asosiy va ilmiy hisob-kitoblar uchun ilova |
+| 5 | **[Soat (Clock App)](#)** | Real vaqtda raqamli va analog soat ilovasi |
+| 6 | **[Fast-Food Sayti](#)** | Onlayn buyurtma beruvchi fast-food platformasi |
+| 7 | **[To-Do App](#)** | Vazifalarni rejalashtirish va boshqarish ilovasi |
+| 8 | **[Raqam Top Oyin](#)** | Raqamlarni topish mantiqiy o'yini |
+| 9 | **[Expense Tracker](#)** | Shaxsiy xarajatlarni kuzatish va tahlil qilish ilovasi |
+| 10 | **[Kalendar](#)** | Tadbirlar va vazifalarni rejalashtiruvchi taqvim ilovasi |
 
 </div>
 
@@ -72,12 +77,9 @@ const fazliddin = {
 ## // GITHUB STATS
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="38%" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" width="60%" />
-
 </div>
 
 <br>
@@ -96,6 +98,8 @@ const fazliddin = {
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=100&section=footer"/>
 
 <div align="center">
 <sub>⚡ Built with clean code and a dark theme mindset.</sub>
