@@ -60,7 +60,7 @@ const fazliddin = {
 | 🚀 Loyiha | 💬 Qisqacha |
 |---|---|
 | **Bozor** | Onlayn savdo / market platformasi |
-| **[Weather (Ob-havo)](https://ob-xavo-8evj29r88-fshamshiddinov22-8543s-projects.vercel.app)** | Ob-havo ma'lumotlarini real vaqtda ko'rsatuvchi ilova |
+| **[Weather-app](https://ob-xavo-8evj29r88-fshamshiddinov22-8543s-projects.vercel.app)** | Ob-havo ma'lumotlarini real vaqtda ko'rsatuvchi ilova |
 | **Chat** | Real vaqtda xabar almashish ilovasi |
 | **Orbiton SaaS** | Zamonaviy SaaS landing va dashboard |
 | **Smart Fit** | Fitnes va sog'lom turmush tarzi ilovasi |
